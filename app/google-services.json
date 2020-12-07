@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761180740201",
+    "firebase_url": "https://whats-app-hrj.firebaseio.com",
+    "project_id": "whats-app-hrj",
+    "storage_bucket": "whats-app-hrj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761180740201:android:d8264e62700b8d9e5b60f8",
+        "android_client_info": {
+          "package_name": "com.example.whatsappcoba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761180740201-99mga68ijatv38ujltqo6ju5p86j5bl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsappcoba",
+            "certificate_hash": "62ec35cd1fa048e8fde94a954a3739d3f3c18af8"
+          }
+        },
+        {
+          "client_id": "761180740201-hmj5dp5mmdnipg3ti6dhj0a79eveo6a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahlTufhH-aXCwc-mkHekNd4bYLefXtgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761180740201-hmj5dp5mmdnipg3ti6dhj0a79eveo6a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
